@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Node.js / JavaScript / TypeScript, Express.js, Vue.js, MySQL
+- **Detected Technologies:** CSS, HTML, JavaScript, MySQL, Node.js, Vue, Vue.js
 - **GitHub Topics:** None
 
 ---
